@@ -33,6 +33,6 @@ Reason: the `bash test.sh` command was 4 up in the history, so I used the up arr
 
 ## Step 6: Commit and push the resulting change to your Github account
 
-Keys Pressed: git<space>status<enter>git<space>add<space>Li<tab><enter>git<space>commit<space>-m<space>"fixed<space>code<space>for<space>merge"<enter>git<space>push<space>origin<space>main<enter>
+Keys Pressed: `git<space>status<enter>git<space>add<space>Li<tab><enter>git<space>commit<space>-m<space>"fixed<space>code<space>for<space>merge"<enter>git<space>push<space>origin<space>main<enter>`
 
-Reasoning: I entered `git<space>status` in order to confirm that I had uncommited changes from editing the `ListExamples.java` file. I then used the `git<space>add<space>Li<tab><enter>` to add my edited `ListExamples.java` file to commit, note that `tab` was entered after `Li` in order to autofill the file name. I then entered git<space>commit<space>-m<space>"fixed<space>code<space>for<space>merge"<enter>` in order to commit my saved file with the message "fixed code for merge". The final command block `git<space>push<space>origin<space>main<enter>` was used to push my commit to gitHub.
+Reasoning: I entered `git<space>status` in order to confirm that I had uncommited changes from editing the `ListExamples.java` file. I then used the `git<space>add<space>Li<tab><enter>` to add my edited `ListExamples.java` file to commit, note that `tab` was entered after `Li` in order to autofill the file name. I then entered `git<space>commit<space>-m<space>"fixed<space>code<space>for<space>merge"<enter>` in order to commit my saved file with the message "fixed code for merge". The final command block `git<space>push<space>origin<space>main<enter>` was used to push my commit to gitHub.
